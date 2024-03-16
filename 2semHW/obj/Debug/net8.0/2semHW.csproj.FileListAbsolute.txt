@@ -1,0 +1,14 @@
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\bin\Debug\net8.0\2semHW.exe
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\bin\Debug\net8.0\2semHW.deps.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\bin\Debug\net8.0\2semHW.runtimeconfig.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\bin\Debug\net8.0\2semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\bin\Debug\net8.0\2semHW.pdb
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.AssemblyInfoInputs.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.AssemblyInfo.cs
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.csproj.CoreCompileInputs.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\refint\2semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.pdb
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\2semHW.genruntimeconfig.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\2semHW\obj\Debug\net8.0\ref\2semHW.dll
