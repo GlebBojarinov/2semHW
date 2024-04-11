@@ -1,0 +1,15 @@
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\bin\Debug\net8.0\6semHW.exe
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\bin\Debug\net8.0\6semHW.deps.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\bin\Debug\net8.0\6semHW.runtimeconfig.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\bin\Debug\net8.0\6semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\bin\Debug\net8.0\6semHW.pdb
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.AssemblyInfoInputs.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.AssemblyInfo.cs
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.csproj.CoreCompileInputs.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.sourcelink.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\refint\6semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.pdb
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\6semHW.genruntimeconfig.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\seminar\Homeworks\6semHW\obj\Debug\net8.0\ref\6semHW.dll
