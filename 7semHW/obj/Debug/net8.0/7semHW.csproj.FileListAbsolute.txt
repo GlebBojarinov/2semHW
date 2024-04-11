@@ -1,0 +1,15 @@
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.AssemblyInfoInputs.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.AssemblyInfo.cs
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.csproj.CoreCompileInputs.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.sourcelink.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\bin\Debug\net8.0\7semHW.exe
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\bin\Debug\net8.0\7semHW.deps.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\bin\Debug\net8.0\7semHW.runtimeconfig.json
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\bin\Debug\net8.0\7semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\bin\Debug\net8.0\7semHW.pdb
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\refint\7semHW.dll
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.pdb
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\7semHW.genruntimeconfig.cache
+C:\Users\glebb\Desktop\GeekBrains\4. Знакомство с языками программирования\Seminar\Homeworks\7semHW\obj\Debug\net8.0\ref\7semHW.dll
